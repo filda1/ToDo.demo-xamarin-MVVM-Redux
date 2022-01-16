@@ -1,0 +1,17 @@
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\View\Page1.xaml.g.cs
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\View\Page2.xaml.g.cs
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.AssemblyInfoInputs.cache
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.AssemblyInfo.cs
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.csproj.CoreCompileInputs.cache
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.dll
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\ref\Todo_Simple_MVVM_Redux.dll
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.pdb
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\bin\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.deps.json
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\bin\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.dll
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\bin\Debug\netstandard2.0\ref\Todo_Simple_MVVM_Redux.dll
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\bin\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.pdb
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos\Xamarin\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\Todo_Simple_MVVM_Redux\obj\Debug\netstandard2.0\Todo_Simple_MVVM_Redux.csproj.AssemblyReference.cache

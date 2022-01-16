@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6aMyMzutQDrLV59gZenOWFVp67zZT7j8UgdjHsW2+Lyf/FctJ1+BGNGmYEQI5GX7pqN7I6Dvyzom8jpQJw1fw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Xamarin\\Todo_Simple_MVVM_Redux\\Todo_Simple_MVVM_Redux\\Todo_Simple_MVVM_Redux.iOS\\Todo_Simple_MVVM_Redux.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasil\\.nuget\\packages\\redux.net\\2.0.0\\redux.net.2.0.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.collections.concurrent\\4.0.12\\system.collections.concurrent.4.0.12.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.reactive\\3.0.0\\system.reactive.3.0.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.reactive.core\\3.0.0\\system.reactive.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.reactive.interfaces\\3.0.0\\system.reactive.interfaces.3.0.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.reactive.linq\\3.0.0\\system.reactive.linq.3.0.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.reactive.platformservices\\3.0.0\\system.reactive.platformservices.3.0.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.0.1\\system.runtime.interopservices.windowsruntime.4.0.1.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\dasil\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

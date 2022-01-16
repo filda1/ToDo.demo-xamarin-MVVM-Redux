@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9d06183-2b15-46b7-81cf-551ee509043c": {
+      "ProjectGuid": "c9d06183-2b15-46b7-81cf-551ee509043c",
+      "DisplayName": "Todo_Simple_MVVM_Redux",
+      "ColorIndex": 0
+    },
+    "6d023252-4ee2-40c8-a0b5-16749b33c774": {
+      "ProjectGuid": "6d023252-4ee2-40c8-a0b5-16749b33c774",
+      "DisplayName": "Todo_Simple_MVVM_Redux.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
